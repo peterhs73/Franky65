@@ -2,7 +2,7 @@
 
 Custom designed 65% ortholinear mechanical keyboard
 
-![](images/frank65-top.jpeg)
+![](images/franky65-top.jpg)
 
 ## Specs
 
@@ -33,13 +33,13 @@ Again going against the trend, I want a keyboard that looks and feels "monstrous
 
 To have a key matrix with 65 keys, the minimum column and row number are 8 x 9, which needs 17 pins. To avoid wiring complications, teensy 2.0 ++ is used because it comes with an abundance of pins (44). The downside is the mini USB connection, which is thicker than 3 mm. An extra slot was cut from the middle plate to fit the vertical tolerance. Amoeba single switch PCBs are used because my initial thought was to add a bit more rigidity to keys. However, I would prefer handiwring for space-saving. The space between the PCB and the switches is wasteful. Here a photo before the controller is wired to the matrix (please ignore the messy workstation):
 
-![](images/franky65-back.jpeg)
+![](images/franky65-back.jpg)
 
 ## Miscellaneous
 
 Lastly, I wanted to add a custom cable to make the keyboard stand out. The cable is from zap cables DIY [kit](https://zapcables.com/diy-usb-cable-kit/), black braided sleeve and white techflex sleave, and white heat sink. The wrist rest is made with spare acrylic pieces from Ponoko glued with a piece of tool leather. Two 10-32 screws are added to give a slight angle to the wrist rest and match the aesthetics of the Franky65.
 
-![](images/frank65-side.jpeg)
+![](images/franky65-side.jpg)
 
 ## QMK
 
