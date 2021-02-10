@@ -1,6 +1,6 @@
-# Franky65
+# Franky65 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-Custom design 65% ortholinear mechanical keyboard
+Custom designed 65% ortholinear mechanical keyboard
 
 ![](images/frank65-top.jpeg)
 
