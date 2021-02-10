@@ -28,6 +28,12 @@
 *.so.*
 *.dylib
 
+# Mac junk
+.DS_Store
+
+# PC junk
+*.bak
+
 # Executables
 *.exe
 *.out
